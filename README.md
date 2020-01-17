@@ -8,3 +8,7 @@ Solved some SQL problem statements from hackkerrank
 Completed Quicklabs of GCP essentials Quest
 
 ## DAY 3
+
+Completed one lab of BIGQUERY on GCP
+
+## DAY 4
