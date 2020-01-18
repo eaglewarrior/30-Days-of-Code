@@ -12,3 +12,6 @@ Completed Quicklabs of GCP essentials Quest
 Completed one lab of BIGQUERY on GCP
 
 ## DAY 4
+Completed Lesson 4 of Intel Edge AI foundational course 
+
+## DAY 5
