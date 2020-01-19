@@ -15,3 +15,6 @@ Completed one lab of BIGQUERY on GCP
 Completed Lesson 4 of Intel Edge AI foundational course & co-hosted the @sg_mumbai virtual meetup
 
 ## DAY 5
+Solved few python problems in codesignal ,based on problem solving
+
+## Day 6
