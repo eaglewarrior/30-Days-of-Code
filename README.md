@@ -18,3 +18,6 @@ Completed Lesson 4 of Intel Edge AI foundational course & co-hosted the @sg_mumb
 Solved few python problems in codesignal ,based on problem solving
 
 ## Day 6
+solved all SQL problems of basic track of hackkerank
+
+## Day 7
