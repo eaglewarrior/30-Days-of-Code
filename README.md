@@ -21,3 +21,4 @@ Solved few python problems in codesignal ,based on problem solving
 solved all SQL problems of basic track of hackkerank
 
 ## Day 7
+Wrote my own Kmeans function
