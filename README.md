@@ -22,3 +22,6 @@ solved all SQL problems of basic track of hackkerank
 
 ## Day 7
 Wrote my own Kmeans function
+
+## Day 8
+Made progress in Lesson 5 of Intel Edge AI foundational course & started learning GO from coursera
