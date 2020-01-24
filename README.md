@@ -25,3 +25,6 @@ Wrote my own Kmeans function
 
 ## Day 8
 Made progress in Lesson 5 of Intel Edge AI foundational course & started learning GO from coursera
+
+## Day 9
+Completed 50% of BigQuery For Data Analysis path in GCP and 50% of Cloud Engineering  of GCP
