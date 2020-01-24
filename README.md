@@ -1,4 +1,4 @@
-# NLP-final-project
+# 30 Days of code Udacity Intel AI Scholarship
 
 ## DAY 1 
 Solved some SQL problem statements from hackkerrank 
