@@ -28,3 +28,8 @@ Made progress in Lesson 5 of Intel Edge AI foundational course & started learnin
 
 ## Day 9
 Completed 50% of BigQuery For Data Analysis path in GCP and 50% of Cloud Engineering  of GCP
+
+## Day 10
+Earned GCP badges for GCP essesntials and BigQuery For Data Analysis quests
+
+## Day 11
