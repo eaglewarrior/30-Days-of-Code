@@ -33,3 +33,4 @@ Completed 50% of BigQuery For Data Analysis path in GCP and 50% of Cloud Enginee
 Earned GCP badges for GCP essesntials and BigQuery For Data Analysis quests
 
 ## Day 11
+Completed Cloud Engineering path in GCP and earned a qwiklabs badge in Cloud Engineering
