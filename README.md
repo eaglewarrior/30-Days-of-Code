@@ -34,3 +34,8 @@ Earned GCP badges for GCP essesntials and BigQuery For Data Analysis quests
 
 ## Day 11
 Completed Cloud Engineering path in GCP and earned a qwiklabs badge in Cloud Engineering
+
+## Day 12
+Completed the foundational course of Intel Edge AI scholarship
+
+## Day 13
