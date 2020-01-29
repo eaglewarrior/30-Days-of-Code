@@ -39,3 +39,6 @@ Completed Cloud Engineering path in GCP and earned a qwiklabs badge in Cloud Eng
 Completed the foundational course of Intel Edge AI scholarship
 
 ## Day 13
+Completed week 2 of Go programming course in coursera
+
+## Day 14
