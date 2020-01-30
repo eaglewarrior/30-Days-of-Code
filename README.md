@@ -42,3 +42,6 @@ Completed the foundational course of Intel Edge AI scholarship
 Completed week 2 of Go programming course in coursera
 
 ## Day 14
+Made submission on https://www.kaggle.com/c/udacity-mlcharity-competition and got 64th Rank in leaderboard in 1st attempt
+
+## Day 15
