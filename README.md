@@ -45,3 +45,6 @@ Completed week 2 of Go programming course in coursera
 Made submission on https://www.kaggle.com/c/udacity-mlcharity-competition and got 64th Rank in leaderboard in 1st attempt
 
 ## Day 15
+Made progress in week 3 of Golang course in Coursera
+
+## Day 16
