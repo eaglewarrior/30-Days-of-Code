@@ -48,3 +48,6 @@ Made submission on https://www.kaggle.com/c/udacity-mlcharity-competition and go
 Made progress in week 3 of Golang course in Coursera
 
 ## Day 16
+completed assigment of week 3 of Golang course in Coursera
+
+## Day 17
