@@ -51,3 +51,6 @@ Made progress in week 3 of Golang course in Coursera
 completed assigment of week 3 of Golang course in Coursera
 
 ## Day 17
+Practised some Python coding in codesignal
+
+## Day 18
