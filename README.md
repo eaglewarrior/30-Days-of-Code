@@ -54,3 +54,7 @@ completed assigment of week 3 of Golang course in Coursera
 Practised some Python coding in codesignal
 
 ## Day 18
+Completed assignment 1 of week 4
+
+## Day 19
+
