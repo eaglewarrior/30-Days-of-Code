@@ -57,4 +57,4 @@ Practised some Python coding in codesignal
 Completed assignment 1 of week 4
 
 ## Day 19
-
+Completed assignment 2 of week 4
