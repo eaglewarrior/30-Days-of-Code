@@ -58,3 +58,8 @@ Completed assignment 1 of week 4
 
 ## Day 19
 Completed assignment 2 of week 4
+
+## Day 20
+Started with Functions, Methods, and Interfaces in Go course in coursera
+
+## Day 21
