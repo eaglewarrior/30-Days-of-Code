@@ -64,14 +64,35 @@ Started with Functions, Methods, and Interfaces in Go course in coursera
 
 ## Day 21
 Completed labs on qwicklabs for buidling skills on AWS 
+
 Introduction to Amazon EC2
+
 Introduction to Amazon Relational Database Service (RDS) - SQL Server
+
 Introduction to Elastic Load Balancing
+
 Introduction to Amazon Relational Database Service (RDS) (Windows)
+
 Creating a Serverless Video Conversion Watchfolder Workflow for MediaConvert
+
 Building a Live Video Channel with MediaLive, MediaStore and CloudFront
+
 Build a Dynamic Conversational Bot - Part 1
+
 Build a Dynamic Conversational Bot - Part 2
 
+
 ## Day 22
+Completed labs on qwicklabs for buidling skills on AWS 
+
+Using Open Data with Amazon S3.
+
+Working with Alexa: Build a How-To Skill. 
+
+Building a Live Video Channel with MediaLive, MediaStore and CloudFront
+
+Creating a Serverless Video Conversion Watchfolder Workflow for MediaConvert
+
+## Day 23
+
 
