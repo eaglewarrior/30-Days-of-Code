@@ -94,5 +94,8 @@ Building a Live Video Channel with MediaLive, MediaStore and CloudFront
 Creating a Serverless Video Conversion Watchfolder Workflow for MediaConvert
 
 ## Day 23
+Learned some optimized clustering techniques
+
+## Day 24
 
 
