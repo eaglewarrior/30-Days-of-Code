@@ -97,5 +97,8 @@ Creating a Serverless Video Conversion Watchfolder Workflow for MediaConvert
 Learned some optimized clustering techniques
 
 ## Day 24
+Finished viewing Functions, Methods, and Interfaces in Go videos for week 1
+
+## Day 25
 
 
