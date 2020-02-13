@@ -100,5 +100,8 @@ Learned some optimized clustering techniques
 Finished viewing Functions, Methods, and Interfaces in Go videos for week 1
 
 ## Day 25
+Revision of lesson 2 of fundamental course of intel
+
+## Day 26
 
 
