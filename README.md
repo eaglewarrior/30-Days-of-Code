@@ -103,5 +103,8 @@ Finished viewing Functions, Methods, and Interfaces in Go videos for week 1
 Revision of lesson 2 of fundamental course of intel
 
 ## Day 26
+Revision of lesson 3 of fundamental course of intel
+
+## Day 27
 
 
