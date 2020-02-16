@@ -109,5 +109,8 @@ Revision of lesson 3 of fundamental course of intel
 Revision of lesson 4 of fundamental course of intel
 
 ## Day 28
+Revision of lesson 5 of fundamental course of intel
+
+## Day 29
 
 
