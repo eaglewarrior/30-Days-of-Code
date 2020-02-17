@@ -112,5 +112,8 @@ Revision of lesson 4 of fundamental course of intel
 Revision of lesson 5 of fundamental course of intel
 
 ## Day 29
+Practised (solved) some python problem statement from codesignal
+
+## Day 30
 
 
