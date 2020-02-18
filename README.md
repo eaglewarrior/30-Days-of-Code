@@ -116,4 +116,5 @@ Practised (solved) some python problem statement from codesignal
 
 ## Day 30
 
+Started with opencv basics form pyimage search
 
