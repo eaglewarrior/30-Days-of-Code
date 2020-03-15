@@ -1,5 +1,7 @@
 # 30 Days of code Udacity Intel AI Scholarship
 
+![30 days](30.jpg)
+
 ## DAY 1 
 Solved some SQL problem statements from hackkerrank 
 
