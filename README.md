@@ -2,6 +2,8 @@
 
 ![30 days](30.jpg)
 
+Got my name mentined with star at https://sites.google.com/udacity.com/intel-edge-ai-scholarship/community/30-days-of-udacity/honorable-mentions-wall
+
 ## DAY 1 
 Solved some SQL problem statements from hackkerrank 
 
